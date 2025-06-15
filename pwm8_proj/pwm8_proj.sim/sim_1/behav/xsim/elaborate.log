@@ -1,0 +1,23 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_pwm8_behav xil_defaultlib.tb_pwm8 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Projects/pwm8/sim/tb_pwm8.v:47]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Projects/pwm8/sim/tb_pwm8.v:57]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Projects/pwm8/sim/tb_pwm8.v:67]
+Completed static elaboration
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 47, File C:/Projects/pwm8/sim/tb_pwm8.v
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 57, File C:/Projects/pwm8/sim/tb_pwm8.v
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 67, File C:/Projects/pwm8/sim/tb_pwm8.v
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Projects/pwm8/rtl/pwm8.v" Line 2. Module pwm8 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Projects/pwm8/rtl/pwm8.v" Line 2. Module pwm8 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pwm8
+Compiling module xil_defaultlib.tb_pwm8
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_pwm8_behav

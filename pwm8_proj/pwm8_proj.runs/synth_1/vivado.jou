@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sun Jun 15 12:04:29 2025
+# Process ID         : 20424
+# Current directory  : C:/Projects/pwm8/pwm8_proj/pwm8_proj.runs/synth_1
+# Command line       : vivado.exe -log pwm8.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pwm8.tcl
+# Log file           : C:/Projects/pwm8/pwm8_proj/pwm8_proj.runs/synth_1/pwm8.vds
+# Journal file       : C:/Projects/pwm8/pwm8_proj/pwm8_proj.runs/synth_1\vivado.jou
+# Running On         : Plasma
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) Ultra 5 125H
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 18
+# Host memory        : 16507 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 17581 MB
+# Available Virtual  : 3436 MB
+#-----------------------------------------------------------
+source pwm8.tcl -notrace

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Projects/pwm8/rtl/pwm8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Projects/pwm8/sim/tb_pwm8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_pwm8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Projects/pwm8/pwm8_proj/pwm8_proj.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
